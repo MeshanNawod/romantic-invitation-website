@@ -1,6 +1,16 @@
-# Love Invite Maker 💌
+<div align="center">
 
-One HTML file. No server, no domain, no accounts. You fill in a form, download a personalised copy, send it on WhatsApp, and see her answer **and her plans**.
+# 💌 Love Invite Maker
+
+One HTML file, no server: fill in a form, download a personalised invite (Valentine, birthday, date or trip), send it on WhatsApp, and get her answer and plans back.
+
+[![Live demo](https://img.shields.io/badge/Live_demo-Open_in_browser-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://meshannawod.github.io/romantic-invitation-website/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
+<img src="docs/screenshot.png" alt="Love Invite Maker form" width="860">
+
+</div>
 
 ## What it can do
 
