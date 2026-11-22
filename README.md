@@ -6,7 +6,7 @@ One HTML file, no server: fill in a form, download a personalised invite (Valent
 
 [![Live demo](https://img.shields.io/badge/Live_demo-Open_in_browser-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://meshannawod.github.io/romantic-invitation-website/)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![License: GPL v2+](https://img.shields.io/badge/License-GPL_v2%2B-blue?style=flat-square)
 
 <img src="docs/screenshot.png" alt="Love Invite Maker form" width="860">
 
@@ -60,3 +60,7 @@ Paste an image link (keeps things small) or upload a photo (cropped small and st
 ## Privacy
 
 Nothing is uploaded while building. Everything lives in the file. The only network call is the optional ntfy alert.
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).
